@@ -1,6 +1,9 @@
 # Hi, Welcome to my GitHub!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baikingrio)](https://github.com/baikingrio)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baikingrio&show_icons=true)](https://github.com/baikingrio)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baikingrio&layout=compact)](https://github.com/baikingrio)
+
 ### Hi there 👋
 
 <!--
