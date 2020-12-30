@@ -1,3 +1,6 @@
+# Hi, Welcome to my GitHub!
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baikingrio)](https://github.com/baikingrio/BmobSocialShare)
 ### Hi there 👋
 
 <!--
