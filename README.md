@@ -9,8 +9,13 @@
 - 💬 我是一个36岁的程序员
 - 📫 这是我的Email: baikingrio@gmail.com
 
+|![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baikingrio&show_icons=true&locale=cn&hide_border=true)|![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baikingrio&locale=cn&hide_border=true&layout=compact)|
+|-|-|
+
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baikingrio&show_icons=true&locale=cn&hide_border=true)](https://github.com/baikingrio)
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baikingrio&locale=cn&hide_border=true&layout=compact)](https://github.com/baikingrio)
+-->
 
 <!--
 **baikingrio/baikingrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
