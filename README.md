@@ -2,7 +2,7 @@
 
 <img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"'>
 
-- 🌱 我目前正在学习全栈开发
+- 🌱 我目前正在学习探索Web3区块链智能合约相关的技术
 - 👯 我主要使用的编程语言是Java、JavaScript、Go、SQL
 - 🤔 我熟悉的技术栈有Spring、SpringBoot、SpringCloud、SpringCloudAlibaba、Vue
 - 🔭 我还喜欢研究学习易经相关的知识
