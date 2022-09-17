@@ -6,7 +6,6 @@
 - 👯 我主要使用的编程语言是Java、JavaScript、Go、SQL
 - 🤔 我熟悉的技术栈有Spring、SpringBoot、SpringCloud、SpringCloudAlibaba、Vue
 - 🔭 我还喜欢研究学习易经相关的知识
-- 💬 我是一个36岁的程序员
 - 📫 这是我的Email: baikingrio@gmail.com
 
 |![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baikingrio&show_icons=true&locale=cn&hide_border=true)|![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baikingrio&locale=cn&hide_border=true&layout=compact)|
